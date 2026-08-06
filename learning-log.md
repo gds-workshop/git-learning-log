@@ -26,3 +26,5 @@ I'm learning Git and version control to track my work.
 
 ## Next Steps
 - Learn about rebasing and interactive rebase
+- Explore github actions for automation
+- Practice contributing to open source projects
